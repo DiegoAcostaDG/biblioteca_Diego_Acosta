@@ -33,25 +33,3 @@ Aquí puedes añadir secciones que resalten libros especiales, citas inspiradora
 
 **Este sitio fue construido utilizando [GitHub Pages](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).**
 
-<style>
-  body {
-      font-family: Arial, sans-serif;
-      color: #333;
-      background-color: #f7f9fc;
-      padding: 20px;
-      line-height: 1.6;
-  }
-  h1, h2, h3 {
-      color: #004aad;
-  }
-  p {
-      color: #555;
-  }
-  blockquote {
-      font-style: italic;
-      color: #555;
-      border-left: 5px solid #004aad;
-      padding-left: 10px;
-      margin: 20px 0;
-  }
-</style>
